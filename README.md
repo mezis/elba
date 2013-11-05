@@ -2,6 +2,12 @@
 
 Command-line interface for Amazon's ELB
 
+## Installing
+
+As simple as
+
+    gem install 'elba'
+
 ## Getting started
 
 Elba relies on the excellent [Fog gem](http://fog.io/) to connect to Amazon's APIs.
